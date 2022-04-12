@@ -1,6 +1,24 @@
 com.amazon.appmanager: Mobile Device Information Provider
 com.android.browser: Browser
 com.android.calendar: Calendar
+com.android.keychain : Keychain
+com.google.android.cellbroadcastreceiver : Emergency Boadcast
+com.miui.analytics : Analytics
+com.android.dreams.basic : Dreams wallpaper
+com.android.bookmarkprovider : Bookmark Provider
+com.google.android.configupdater : Google Config Updater
+com.google.android.apps.turbo : Device Health Services
+com.android.emergency : Android emergency
+com.caf.android : fmradio
+com.miui.fmservice : fm service
+com.google.androidsyncadapters.calendar : Google calendar sync
+com.android.hotwordenrollment.okgoogle : Google Hotword
+com.android.dreams.phototable : Photo Screensavers
+com.qualcomm.qti.qms.service.telemetry : Qualcomm Telemetry
+com.google.android.tts : Google TTS
+com.android.apps.tag : NFC
+com.android.providers.userdictionary : User Dictionary
+com.android.hotwordenrollment.xgoogle : X Google enrollment
 com.android.chrome: Google Chrome
 com.android.deskclock: Clock
 com.android.email: Mail
